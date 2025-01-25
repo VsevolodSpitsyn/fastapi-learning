@@ -34,6 +34,7 @@ pip install -r requirements.txt
 
 
 Project Structure
+```bash
 fastapi-learning/
 ├── main.py                     # Main application file
 ├── requirements.txt            # Project dependencies
@@ -46,7 +47,7 @@ fastapi-learning/
 │       ├── crud.py             # CRUD operations for employees
 │       └── schemas.py          # Pydantic schemas for validation
 └── .gitignore                  # List of files and folders excluded from the repository
-
+```
 
 API Endpoints
 
